@@ -1,0 +1,97 @@
+body {
+    background-color: #777;
+    font-family: helvetica;
+    font-size: 18px;
+    width : 960px;
+    margin: auto;
+     }
+#linkHeader
+    {
+    background: #ebebeb;
+    font-family: helvetica;
+    height: 100px;
+    text-align: center;
+    }
+
+#linkNav
+    {
+    background: #ebebeb;
+    font-family: helvetica;
+    height: 52px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    }
+section
+    {
+      width: 495px;
+      background-color: #ebebeb;
+      height: 530px;
+    }
+#secHeader
+  {
+    text-align: center;
+  }
+#articledet
+  {
+    background: #777;
+    margin-left: 10px;
+    margin-right: 10px;
+    overflow: auto; 
+  } 
+#artHeader
+    {
+      color:white;
+      text-align: center;
+    }
+
+#intro
+    {
+      margin-left: 5px;
+      margin-right:5px; 
+      padding-bottom: 10px;
+      padding-top: 10px;
+      background:#ebebeb;
+      width:455px;
+      text-align: center;
+    }
+
+  #artbody
+    {
+      margin-left: 5px;
+      margin-right:5px;
+      margin-bottom: 20px; 
+      background:#ebebeb;
+      float: left; 
+      width:455px;
+    }
+
+  #logoWccrm
+    {
+      float: left;
+      width: 140px;
+      height: 100px;
+      margin:5px;
+    }
+ 
+ aside
+  {
+  width:425px;
+  float:left;
+  position: relative;
+  top : -510px;
+  background-color: #ebebeb; 
+  padding: 10px;
+  margin-left: 515px;
+  }
+
+footer
+    {
+      width: 960px;
+      margin: 0 auto;
+      font-family: sans-serif;
+      clear: both;
+      background:  #ebebeb;
+      position: absolute;
+      text-align: center;
+    }
